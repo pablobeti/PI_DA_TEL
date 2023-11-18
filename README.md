@@ -21,7 +21,7 @@ los datos y KPI´s así como el uso de Power BI para el dashboard final.
 
 ### **Contexto del Proyecto**
 
-Asumiendo el rol de Data Analist una empresa una empresa prestadora de servicios de telecomunicaciones nos encargo la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Su principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes. nos pide que realicemos un informe. 
+Asumiendo el rol de Data Analist una empresa una empresa prestadora de servicios de telecomunicaciones nos encargo la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Su principal actividad economica es la de brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes. nos pide que realicemos un informe. 
 
 Argentina ha experimentado un crecimiento constante en el acceso a Internet en los últimos años. En el segundo trimestre de 2023, el 88,4% de la población argentina tenía acceso a Internet, un aumento de 1,4% respecto al mismo trimestre del año anterior.
 
@@ -37,7 +37,7 @@ Por consiguiente, este proyecto se enfocará específicamente en el analisis del
 
 - Calidad del dato:<br>
 
-Se inició el EDA con una fase de preprocesamiento para limpiar el conjunto de datos. Esta etapa implicó familiarizarse con la **API** realizar consultas en la [documentacion ](https://https://junar.github.io/docs/es//) la cual nos permitio descargar los datasets. A su vez procedi al analisis de los mismo viendo cuales son los pertinente y de sus datos el manejo de valores faltantes o nulos, outliers, la corrección de formatos de datos y la unificación de tablas relevantes para un análisis más profundo. <br>
+Se inició el EDA con una fase de preprocesamiento para limpiar el conjunto de datos. Esta etapa implicó familiarizarse con la **API** para realizar consultas, para ello tenemos disponible la [documentacion ](https://https://junar.github.io/docs/es//) la cual me permitio descargar los datasets. A su vez procedi al analisis de los mismos viendo cuales son los pertinentes y en base a sus datos comprobar si estos constan de valores nulos o faltantes, outliers, la corrección de formatos de datos y la unificación de tablas relevantes para un análisis más profundo. <br>
 
 
 
@@ -53,18 +53,19 @@ Aqui podemos ver la **Distribucion de Accesos por cada 100 hogares por Provincia
 <p>
 Aqui podemos ver como La Provincia de Buenos Aires y Capital Federal son las que lideran la cantidad de accesos, a comparación del resto de las provincias. 
 
-Tambien podemos apreciar la tendencia claramente alcista de los accesos a internet por Hogar desde 2014 a 2022 en cantidad. <br>
+
 <p align='center'>
 <img src ='src\evolucion.png' width="700" height="350">
 <p>
 
-Tambien podemos ver como con el EDA esta tendencia alcista se ve reflejada en la cantidad de ingresos relacionados con el Acceso a Internet<br>
+Tambien podemos apreciar la tendencia claramente alcista de los accesos a internet por Hogar desde 2014 a 2022 en cantidad. <br>
+
 
 <p align='center'>
 <img src ='src\ingresos.png' width="700" height="350">
 <p>
 
-
+Tambien podemos ver como con el EDA esta tendencia alcista se ve reflejada en la cantidad de ingresos relacionados con el Acceso a Internet<br>
 
 ### **Enfoque del Storytelling del proyecto**
 
