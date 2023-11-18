@@ -19,7 +19,7 @@ los datos y KPI´s así como el uso de Power BI para el dashboard final.
  
 
 
-### **Contexto del Proyecto**
+## **Contexto del Proyecto**
 
 Asumiendo el rol de Data Analist una empresa una empresa prestadora de servicios de telecomunicaciones nos encargo la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Su principal actividad economica es la de brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes. nos pide que realicemos un informe. 
 
@@ -33,7 +33,7 @@ Por consiguiente, este proyecto se enfocará específicamente en el analisis del
 
 
 
-### **EDA (Análisis Exploratorio de Datos)**
+## **EDA (Análisis Exploratorio de Datos)**
 
 - Calidad del dato:<br>
 
@@ -67,7 +67,7 @@ Tambien podemos apreciar la tendencia claramente alcista de los accesos a intern
 
 Tambien podemos ver como con el EDA esta tendencia alcista se ve reflejada en la cantidad de ingresos relacionados con el Acceso a Internet<br>
 
-### **Enfoque del Storytelling del proyecto**
+## **Enfoque del Storytelling del proyecto**
 
 Tras analizar el EDA, se optó por centrar la narrativa del proyecto en los servicios de Internet, se presentará un KPI propuesto sobre como es la evolucion de accesos si cumplen o no la siguiente condicion trimestralmente:
 
@@ -96,7 +96,7 @@ Este KPI también cuenta con un filtro de porcentaje pero de incremento y hace l
 
 
 
-### **Conclusión**
+## **Conclusión**
 
 El análisis de datos aportados por ENACOM brinda un amplio panorama con múltiples variables, desde el rendimiento de accesos a Internet hasta la evolución de los ingresos a lo largo de los años. La visualización de datos fue una herramienta clave para comprender y presentar estos hallazgos. Por ejemplo, se identificaron cambios notables en los patrones de accesos a Internet, con un crecimiento exponencial en la conectividad móvil y un aumento significativo en la cobertura de fibra óptica.
 
@@ -107,7 +107,7 @@ Sin embargo, es importante tener en cuenta que el entorno regulatorio y socioeco
 Teniendo en cuenta estos factores, se puede concluir que el análisis de datos es una herramienta esencial para la industria de las telecomunicaciones en Argentina. Sin embargo, es importante realizar un análisis integral que tenga en cuenta el entorno regulatorio y socioeconómico en el que opera la industria.
 
 
-## Fuente de datos
+## Fuentes de datos
 **Obligatorio(Consigna del proyecto):**
 
 - [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) 
