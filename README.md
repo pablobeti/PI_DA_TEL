@@ -113,7 +113,7 @@ Teniendo en cuenta estos factores, se puede concluir que el análisis de datos e
 - [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) 
 
 **Complementario:**
-- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home) de reclamos
+- [Datasets complementarios](https://datosabiertos.enacom.gob.ar/home)
 
 **Información de Contacto:**
 - [LinkedIn](https://www.linkedin.com/in/pablo-beti-714007265/)
