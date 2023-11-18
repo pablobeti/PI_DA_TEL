@@ -120,7 +120,7 @@ Teniendo en cuenta estos factores, se puede concluir que el análisis de datos e
 - Correo electrónico: pablobeti@gmail.com
 
 ## Tecnologias utilizadas:
-**Python - Power BI - Pandas - Seaborn -** 
+**Python - Power BI - Pandas - Seaborn** 
 
 <body>
   <div class="logo-container">
