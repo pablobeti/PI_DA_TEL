@@ -37,7 +37,7 @@ Por consiguiente, este proyecto se enfocará específicamente en el analisis del
 
 - Calidad del dato:<br>
 
-Se inició el EDA con una fase de preprocesamiento para limpiar el conjunto de datos. Esta etapa implicó familiarizarse con la **API** para realizar consultas, para ello tenemos disponible la [documentacion ](https://https://junar.github.io/docs/es/) la cual me permitio descargar los datasets. A su vez procedi al analisis de los mismos viendo cuales son los pertinentes y en base a sus datos comprobar si estos constan de valores nulos o faltantes, outliers, la corrección de formatos de datos y la unificación de tablas relevantes para un análisis más profundo. <br>
+Se inició el EDA con una fase de preprocesamiento para limpiar el conjunto de datos. Esta etapa implicó familiarizarse con la **API** para realizar consultas, para ello tenemos disponible la [documentacion ](https://junar.github.io/docs/es/) la cual me permitio descargar los datasets. A su vez procedi al analisis de los mismos viendo cuales son los pertinentes y en base a sus datos comprobar si estos constan de valores nulos o faltantes, outliers, la corrección de formatos de datos y la unificación de tablas relevantes para un análisis más profundo. <br>
 
 
 
